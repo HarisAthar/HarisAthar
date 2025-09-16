@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/LiveKit-4A90E2?style=flat-square&logo=webrtc&logoColor=white" alt="LiveKit">
   <img src="https://img.shields.io/badge/FreeSWITCH-000000?style=flat-square&logo=voip&logoColor=white" alt="FreeSWITCH">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery">
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
@@ -66,8 +65,6 @@
   Building scalable APIs, microservices, and integrations (Stripe, RevenueCat).
 - **Freelance Software Developer** (2023 – Present)  
   Delivering full-stack apps with React, React Native, and Node.js.
-- **Teaching Assistant @ PUCIT** (2023)  
-  Supported ICT/Stats courses, grading, and lecture prep.
 
 ---
 
@@ -76,8 +73,4 @@
   <a href="https://linkedin.com/in/haris-athar-5b0000242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:harisathar87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/HarisAthar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarisAthar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
