@@ -61,7 +61,7 @@
 
 ### 💼 Experience
 
-#### **Software Engineer (Backend) — Senarios**  
+#### **Software Engineer — Senarios**  
 **Aug 2024 – Present**
 
 • Developed full-stack features using MERN and backend services using Python/FastAPI  
